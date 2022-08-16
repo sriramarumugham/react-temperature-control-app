@@ -1,2 +1,2 @@
 # react-temperature-control-app
-its a simple temperature control  button with changing colors
+its a micro project using useState react hook  , temperature control  button with changing colors
